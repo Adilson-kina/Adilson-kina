@@ -1,12 +1,25 @@
-### Olá sou Adilson Kina!!
-[![Adilson-kina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adilson-kina&show_icons=true&theme=cobalt&hide_rank=true&locale=pt-br)](https://github.com/Adilson-kina/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-kina&layout=compact)](https://github.com/Adilson-kina/github-readme-stats)
-<div style="display:flex">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="30">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="30">
-</div>
-"conhecimento quase nulo em CSS"
+## Hello! Adilson here!
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Adilson-kina&show_icons=true&theme=cobalt&hide_rank=true&locale=pt-br)
 <!--
+It's showing some languages from repos that aren't projects, gonna try fix it puting them on another repo later
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adilson-kina&layout=compact)
+-->
+## I can get by
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="30" />
+</div>
+
+## Learning 
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="30" />
+</div>
+
+<!--
+If i want to do some of those after 
 **Adilson-kina/Adilson-kina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
